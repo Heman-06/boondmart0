@@ -22,6 +22,12 @@
 
 ---
 
+## 🔐 Code Availability  
+
+⚠️ **Due to client confidentiality, the source code is not publicly available.** However, I can provide insights into the **architecture, tech stack, and implementation details** upon request.  
+
+---
+
 ## 🛠️ Tech Stack  
 
 | **Technology**      | **Usage**                             |
