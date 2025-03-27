@@ -1,26 +1,24 @@
-📌 CoreFitPlus – Gym Pilates Web Application 🚀
-📖 Project Overview
-CoreFitPlus is a React Bootstrap-based gym and pilates web application designed to provide an engaging and user-friendly fitness experience. The platform consists of:
+🎯 CoreFitPlus – Gym & Pilates Web Application 💪🏽
+🏋️‍♂️ Project Overview
+CoreFitPlus is a modern and engaging fitness web application built with React.js and Bootstrap to provide users with a seamless gym and pilates experience. The platform is designed for:
 
-A frontend website showcasing gym and pilates services
+✅ Showcasing gym & pilates services
+✅ Displaying class schedules & trainer details
+✅ Allowing easy membership inquiries via Google Forms
 
-Class schedules, trainer details, and membership information
+🚀 Fully responsive & optimized for all devices!
 
-Google Forms integration for contact and membership inquiries
-
-🔐 Code Availability
-⚠️ Due to client confidentiality, the source code is not publicly available. However, I can provide insights into the architecture, tech stack, and implementation details upon request.
-
-✨ Features
-✅ Responsive website built with React and Bootstrap for seamless browsing
-✅ Class schedules and trainer details for easy accessibility
-✅ Google Maps integration for location visibility
-✅ Google Forms integration for inquiries and membership applications
-✅ SEO-friendly design to attract fitness enthusiasts
+✨ Key Features
+🔹 🏆 Stunning, responsive UI – Built with React.js & Bootstrap for smooth performance
+🔹 📅 Class schedules & trainer details – Easy-to-access fitness programs
+🔹 📍 Google Maps integration – Locate the nearest gym easily
+🔹 📢 Contact & membership inquiries – Handled via Google Forms for quick responses
+🔹 ⚡ SEO-optimized – Increases reach and visibility
 
 🛠️ Tech Stack
-Frontend: React.js, Bootstrap
-
-APIs & Services: Google Maps API, Google Forms
-
-📩 For inquiries or further discussions about the project, feel free to reach out!
+Technology	Usage
+⚛️ React.js	Frontend framework for dynamic UI
+🎨 Bootstrap	Styling & responsive design
+🌍 Google Maps API	Location tracking
+📝 Google Forms	Membership & contact inquiries
+📩 Want to collaborate? Let’s discuss!
